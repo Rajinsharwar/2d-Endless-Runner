@@ -1,0 +1,4 @@
+#Sat May 14 08:30:39 BDT 2022
+base.0=/Users/macos/Unity Projects/2D Endless Runner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
